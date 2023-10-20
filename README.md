@@ -8,7 +8,6 @@ EuRoC dataset: https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinert
 
 UZH-FPV dataset: https://fpv.ifi.uzh.ch/datasets/
 
-```
 
 # MSCKF\_VIO
 
