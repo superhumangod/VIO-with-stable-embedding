@@ -1,4 +1,4 @@
-This fork contains additionnal implementation of the paper: J.-H. Park, S. Yoo, and D. E. Chang, __A new paradigm for dealing with manifold structures in visual inertial odometry by using stable embedding__
+This fork contains additional implementation of the paper: J.-H. Park, S. Yoo, and D. E. Chang, __A new paradigm for dealing with manifold structures in visual inertial odometry by using stable embedding__
 
 This code is a modified version of the code in https://github.com/mbrossar/msckf_vio.
 
