@@ -2,7 +2,7 @@ This fork contains additional implementation of the paper: J.-H. Park, S. Yoo, a
 
 This code is a modified version of the code in https://github.com/mbrossar/msckf_vio.
 
-Benchmark datasets can be find from the following links:
+Benchmark datasets can be found from the following links:
 
 EuRoC dataset: https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
 
