@@ -1,19 +1,16 @@
-This fork contains additionnal implementation of the paper: M. Brossard, S. Bonnabel and A. Barrau, __Unscented Kalman Filter on Lie Groups for Visual Inertial Odometry__, _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_, 2018. [[HAL paper](https://hal.archives-ouvertes.fr/hal-01735542v2)]
+This fork contains additionnal implementation of the paper: J.-H. Park, S. Yoo, and D. E. Chang, __A new paradigm for dealing with manifold structures in visual inertial odometry by using stable embedding__
 
-If you use our modified code in your research, please cite the original MSCKF VIO paper and:
-```
-@INPROCEEDINGS{2018_Brossard_Unscented,
-  author = {Martin Brossard and Silvère Bonnabel and Axel Barrau},
-  booktitle={2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  year={2018},
-  }
+This code is a modified version of the code in https://github.com/mbrossar/msckf_vio.
+
+Benchmark datasets can be find from the below links.
+EuRoC dataset: https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
+UZH-FPV dataset: https://fpv.ifi.uzh.ch/datasets/
+
 ```
 
 # MSCKF\_VIO
 
 The `MSCKF_VIO` package is a stereo version of MSCKF. The software takes in synchronized stereo images and IMU messages and generates real-time 6DOF pose estimation of the IMU frame.
-
-
 
 The software is tested on Ubuntu 16.04 with ROS Kinetic.
 
